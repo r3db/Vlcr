@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Vlcr.Core.Collections.GeometryList" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Collections\GeometryList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vlcr.Core.Collections.PriorityQueue&lt;V&gt;">
+    <Position X="3.5" Y="3.25" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AABAAgAAAAAMAAAAAAAAAAQAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Collections\PriorityQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vlcr.Core.Constants">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQgCAEEAAAAAAAAACAIAACAAAAAAA=</HashCode>
+      <FileName>Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vlcr.Core.FuzzyFloat">
+    <Position X="3.25" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAQAAgABAgAICAAAAAgAEAAIAA=</HashCode>
+      <FileName>FuzzyFloat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vlcr.Core.Helpers">
+    <Position X="0.5" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AABACAAIAAAAIAAAgIAEAAQAAAAAAAACABAAAAEQBBA=</HashCode>
+      <FileName>Helpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vlcr.Core.SerializationHelper">
+    <Position X="10.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>SQAABAACAEAIYAAAQAAYAEAAAAAAgCACAAAAAAgAQAA=</HashCode>
+      <FileName>SerializationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vlcr.Core.Vector">
+    <Position X="7.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAEBgAAAAE8g8AAAQAAAAAAIBAAEAECAAIYmE=</HashCode>
+      <FileName>Vector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Vlcr.Core.ICloneable&lt;T&gt;">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>ICloneable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

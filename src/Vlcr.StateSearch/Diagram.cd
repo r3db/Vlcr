@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Vlcr.StateSearch.AStar&lt;T&gt;" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAACAAAAIgBAAIAAAAAAAAAIAAAAAAAAAgAAI=</HashCode>
+      <FileName>AStar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vlcr.StateSearch.CollectionExtension">
+    <Position X="11" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CollectionExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vlcr.StateSearch.IDAStar&lt;T&gt;" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAAAAFAACAAAAIgBAAoAAAAgAAAAIAAAAAAAAAAAAI=</HashCode>
+      <FileName>IDAStar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vlcr.StateSearch.State&lt;T&gt;">
+    <Position X="8.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgEAABEQBAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Vlcr.StateSearch.ILayout&lt;T&gt;">
+    <Position X="4.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAIABEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ILayout.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Vlcr.StateSearch.IStateSearchable&lt;T&gt;">
+    <Position X="6.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAIAAAAIAAAAAAAAAIAAAAAAAAAAAAI=</HashCode>
+      <FileName>IStateSearchable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

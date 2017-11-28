@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Vlcr.VisualMap.ConcreteVisualMap">
+    <Position X="9.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAACAAAAAAAEAAABAAAAAgAAAAAAAAggIACAAA=</HashCode>
+      <FileName>ConcreteVisualMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vlcr.VisualMap.MapVisuals" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAggAABAIBIgAIESAAgIUKIwAEAAAAgEAAAAGDAAgAQ=</HashCode>
+      <FileName>MapVisuals.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vlcr.VisualMap.VisualMapNode">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>KAAAKAAQgFJCM1gEEEgAAAAAQAAAIAACCAGAEgEAgAk=</HashCode>
+      <FileName>VisualMapNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vlcr.VisualMap.WorkAreaState">
+    <Position X="3.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>RgKAAAQgBSDcAQMCEhJAOGFACOAAGAAhBADRACAAIIQ=</HashCode>
+      <FileName>WorkAreaState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Vlcr.VisualMap.Artifact">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAEAgAA=</HashCode>
+      <FileName>Artifact.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Vlcr.VisualMap.WorkAreaAction">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAgAAEBAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WorkAreaAction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
